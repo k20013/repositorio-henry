@@ -1,3 +1,5 @@
+<h3>El contenido de este repositorio será utilizado con el proposito de desarrollarme como programador.</h3>
+
 Con la finalidad de comprender mejor los conceptos, se explicarán de forma detallada a continuación:
 
  * Variables
